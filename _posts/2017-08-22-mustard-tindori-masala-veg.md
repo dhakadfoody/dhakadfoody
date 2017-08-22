@@ -2,7 +2,7 @@
 title: Mustard Tindori Masala Veg
 ---
 
-Dear friends today we will learn the recipe for **Tindori** Masala vegetable. Lot of people also known **Tindori** by other names like **kundru**, **Coccinia grandis, the ivy gourd**, also known as **scarlet gourd** and **Kowai** and in **Kunduri** in Bengali.
+Dear friends today we will learn the recipe for **Tindori** Masala vegetable. Lot of people also known **Tindori** by other names like **kundru**, **Coccinia grandis, the ivy gourd**, also known as **scarlet gourd** and **Kowai** and **Kunduri** in Bengali.
 
 Before starting with recipe, let's know brief about **Tindori**
 
@@ -32,7 +32,7 @@ In refined oil, low flame, fry Tindori and potato for 10 min with mustard seeds,
 
 ##### Step 2:
 
-In mustard oil (can use same utensil), add grinded misture of ginger, garlic, 2-onions, 4-tomatoes and 2-green chillies (use green chillies without seeds). Add turmeric, 1/4th spoon satl, half spoon garam masala and cook for 10-12 minutes.
+In mustard oil (can use same utensil), add grinded mixture of ginger, garlic, 2-onions, 4-tomatoes and 2-green chillies (use green chillies without seeds). Add turmeric, 1/4th spoon salt, half spoon garam masala and cook for 10-12 minutes.
 
 *Mix step1 and step 2*
 
