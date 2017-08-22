@@ -53,4 +53,4 @@ Eat Healthy, be Healthy !!
 
 Share your feedback at team.dhakadfoody@gmail.com
 
-[Go Back To Home Page](https://dhakadfoody.github.io/foodyblog/)
+[Go Back To Home Page](https://dhakadfoody.github.io/dhakadfoody/)
