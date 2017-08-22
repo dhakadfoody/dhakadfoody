@@ -1,14 +1,14 @@
 # Site settings
-title: DhakadFoody | Simply Tasty
-description: "blogs for food receipies with difference."
-url: "http://www.dhakadfoody.com"
+title: Emerald | A simple Jekyll blog
+description: "A minimal blog template, build with Jekyll."
+url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Arun Gupta"
-  email: "team.dhakadfoody@gmail.com"
-  url: "http://www.dhakadfoody.com"
+  name: "Jacopo Rabolini"
+  email: "hello@jacoporabolini.com"
+  url: "http://www.jacoporabolini.com"
 
 # Build settings
-baseurl: /dhakadfoody/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
