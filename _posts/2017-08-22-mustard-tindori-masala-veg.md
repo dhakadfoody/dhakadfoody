@@ -22,7 +22,7 @@ A variety of recipes from all over the world list the fruit, as the main ingredi
 
 Tindori(ivy gourd), Potato, Ginger, Garlic, Onion, Tomato, Mustard Seeds (rai), Anise(sauf), Cumin(jeera),Salt, Green Chillies, Turmeric, Garam Masala, Refined Oil & Mustard Oil.
 
-Quantity for each ingerdient varies based onto quantity of Tindori to be prepared
+Quantity for each ingredient varies based onto quantity of Tindori to be prepared
 
 ##### Step 1:
 
