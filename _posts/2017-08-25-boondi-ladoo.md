@@ -2,9 +2,9 @@
 title: Boondi Laddu (Ganesha chaturthi festival special)
 ---
 
-Dear friends in India we celebrate lord **Ganesha** birthday every year with lot's of joy and believe. As per divine stories, **Ganesha** is considered as first lord to be worshiped before any other lord, thus **Ganesha** Chaturthi is one of the biggest and important festival in India.
+Dear friends, in India we celebrate lord **Ganesha** birthday every year with lots of joy and belief. As per divine stories, **Ganesha** is considered as first lord to be worshiped before any other lord, thus **Ganesha** Chaturthi is one of the biggest and important festival in India.
 
-**Ganesha** is also known to be found of **Laddu's** (ball-shaped sweets), and thus **Laddu** is one of the essential prasad (disambiguation) in every household in India. Today in **DhakadFoody** family we are celebrating **Ganesha** Chaturthi by showing you recipe of making delicious boondi **Laddus**.
+**Ganesha** is also known to be fond of **Laddu's** (ball-shaped sweets), and thus **Laddu** is one of the essential prasad (disambiguation) in every household in India. Today in **DhakadFoody** family we are celebrating **Ganesha** Chaturthi by showing you recipe of making delicious boondi **Laddus**.
 
 Thanks to **Yamini Gupta** for sharing such a delicious and simple recipe for making **Boondi Laddu** with **DhakadFoody**.
 
