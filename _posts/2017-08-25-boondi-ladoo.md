@@ -73,7 +73,7 @@ Serve well.
 
 Share Laddu with your friends, family and all whom you meet with Ganesha Chaturthi wishes and enjoy !!
 
-Courtsey: **Yamini Gupta**
+Courtesy: **Yamini Gupta**
 
 Happy **Ganesha** Chaturthi to all !!
 
