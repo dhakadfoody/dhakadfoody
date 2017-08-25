@@ -1,14 +1,14 @@
 # Site settings
 title: DhakadFoody | Simply Tasty
 description: "blogs for food receipies with difference."
-url: "http://www.dhakadfoody.github.io/dhakadfoody/"
+url: "http://www.dhakadfoody.com"
 author:
   name: "Arun Gupta"
   email: "team.dhakadfoody@gmail.com"
   url: "http://www.dhakadfoody.com"
 
 # Build settings
-baseurl: /dhakadfoody/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
