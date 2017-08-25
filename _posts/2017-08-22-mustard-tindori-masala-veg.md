@@ -6,7 +6,7 @@ Dear friends today we will learn the recipe for **Tindori** Masala vegetable. Lo
 
 Before starting with recipe, let's know brief about **Tindori**
 
-![Tindori](/dhakadfoody/img/tindori.png "Tindori")
+![Tindori](/img/tindori.png "Tindori")
 
 Tindori is found from Africa to Asia, including India, Phillippines, Cambodia, China, Indonesia, Malaysia, Fiji, Guam, Vanuata etc.
 
@@ -28,7 +28,7 @@ Quantity for each ingredient varies based onto quantity of Tindori to be prepare
 
 In refined oil, low flame, fry Tindori and potato for 10 min with mustard seeds, anise, cumin and salt (as shown in image).
 
-![Tindori](/dhakadfoody/img/TMS1.png "first image")
+![Tindori](/img/TMS1.png "first image")
 
 ##### Step 2:
 
@@ -36,14 +36,14 @@ In mustard oil (can use same utensil), add grinded mixture of ginger, garlic, 2-
 
 *Mix step1 and step 2*
 
-![Tindori](/dhakadfoody/img/TMS2.png "second image")
+![Tindori](/img/TMS2.png "second image")
 
 
 ##### Step 3:
 
 Cover the mixture as above and cook for 10 minutes in low flame.
 
-![Tindori](/dhakadfoody/img/TMS3.png "third image")
+![Tindori](/img/TMS3.png "third image")
 
 
 Serve hot with chapati without Ghee. Above given quantity is good to serve for 3 people.
@@ -53,4 +53,4 @@ Eat Healthy, be Healthy !!
 
 Share your feedback at team.dhakadfoody@gmail.com
 
-[Go Back To Home Page](https://dhakadfoody.github.io/dhakadfoody/)
+[Go Back To Home Page](http://dhakadfoody.com)

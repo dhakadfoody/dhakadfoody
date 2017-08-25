@@ -12,7 +12,7 @@ Thanks to **Yamini Gupta** for sharing such a delicious and simple recipe for ma
 Before starting with recipe, let's know brief about **Boondi**
 
 
-![Boondi](/dhakadfoody/img/Boondi.png "Boondi")
+![Boondi](/img/Boondi.png "Boondi")
 
 **Boondi** is a Rajasthani snack food made from sweetened, fried chickpea flour (Gram flour). Being very sweet, it can only be stored for a week or so.
 
@@ -45,7 +45,7 @@ Mix 2 cups of beasan and 1/4 cup of suji in water to make paste. Mix well and le
 Fry above paste in desi ghee and prepare boondi.
 
 
-![Boondi](/dhakadfoody/img/Boondi.png "Boondi")
+![Boondi](/img/Boondi.png "Boondi")
 
 ##### Step 2:
 
@@ -57,19 +57,19 @@ Add cardamom powder, cashew nuts and raisins (kishmish) in the mixture after 5 m
 
 Add little amount of food color as required.
 
-![BoondiLaddu1](/dhakadfoody/img/BoondiLadoo1.png "BoondiLadoo1")
+![BoondiLaddu1](/img/BoondiLadoo1.png "BoondiLadoo1")
 
 ##### Step 3:
 
 Make Laddu, as shown in the image below
 
-![BoondiLaddu1](/dhakadfoody/img/BoondiLadoo2.png "BoondiLadoo2")
+![BoondiLaddu1](/img/BoondiLadoo2.png "BoondiLadoo2")
 
 ##### Step 4:
 
 Serve well.
 
-![BoondiLaddu1](/dhakadfoody/img/BoondiLadoo3.png "BoondiLadoo3")
+![BoondiLaddu1](/img/BoondiLadoo3.png "BoondiLadoo3")
 
 Share Laddu with your friends, family and all whom you meet with Ganesha Chaturthi wishes and enjoy !!
 
@@ -79,4 +79,4 @@ Happy **Ganesha** Chaturthi to all !!
 
 Share your feedback at team.dhakadfoody@gmail.com
 
-[Go Back To Home Page](https://dhakadfoody.github.io/dhakadfoody/)
+[Go Back To Home Page](https://dhakadfoody.com/)
