@@ -79,4 +79,4 @@ Happy **Ganesha** Chaturthi to all !!
 
 Share your feedback at team.dhakadfoody@gmail.com
 
-[Go Back To Home Page]({{site.baseurl}})
+<a href ="\{{site.baseurl}}">Go Back To Home Page</a>
