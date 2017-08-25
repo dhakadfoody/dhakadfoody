@@ -6,12 +6,13 @@ layout: default
 	<h2>{{ page.title }}</h2>		
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 
-{% include share-buttons.html %}
+	<p> {% include share-buttons.html %} Share on Facebook </p>
 
 	<div class="content">
 
 		{{ content }}
 		
 	</div>
+	<p> {% include share-buttons.html %} Share on Facebook </p>
 </article>
 
