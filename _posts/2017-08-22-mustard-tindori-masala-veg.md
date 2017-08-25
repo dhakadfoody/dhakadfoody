@@ -53,4 +53,4 @@ Eat Healthy, be Healthy !!
 
 Share your feedback at team.dhakadfoody@gmail.com
 
-<a href="{{ site.baseurl }}" >Go Back To Home Page</a>
+<a href= "/{{ site.baseurl }}" >Go Back To Home Page</a>
