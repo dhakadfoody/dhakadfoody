@@ -20,7 +20,7 @@ It also have nutritious value, as **Sabudana/tapioca sago** is rich in carbohydr
 Let's checkout the recipe of making nutritious **Sabudana** Khichadi. It's fast to prepare and healthy to eat.
 
 
-### Steps to follow to prepare **Sabudana** Khichadi
+### Steps to follow to prepare Sabudana Khichadi
 
 *Ingredients and preparation for Sabudana Khichadi*
 
@@ -33,7 +33,6 @@ Let's checkout the recipe of making nutritious **Sabudana** Khichadi. It's fast 
 - Green coriander leaves
 - Ghee as required
 - Water as required
-- Lemon as required
 
 Quantity for each ingredient varies based on quantity of khichadi to be prepared
 
