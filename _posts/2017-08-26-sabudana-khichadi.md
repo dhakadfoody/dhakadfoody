@@ -62,6 +62,10 @@ Add **Sabudana** mixture from above and mix well. Stir continuously for 4-5 minu
 
 ##### Step 4:
 
+Add lemon to taste
+
+##### Step 5:
+
 Garnish with green coriander leaves
 
 Serve well.
