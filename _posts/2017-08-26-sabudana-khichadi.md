@@ -33,6 +33,7 @@ Let's checkout the recipe of making nutritious **Sabudana** Khichadi. It's fast 
 - Green coriander leaves
 - Ghee as required
 - Water as required
+- Lemon as required
 
 Quantity for each ingredient varies based on quantity of khichadi to be prepared
 
