@@ -11,7 +11,7 @@ If you also like to have something light to eat someday, **Sabudana** Khichadi i
    
 Before starting with recipe, let's know brief about **Sabudana/Tapioca Sago**
 
-![Sabudana](/img/Sabudana3.png "Sabudana")
+![sabudana](/img/sabudana3.png "sabudana")
 
 **Sabudana - Tapioca Sago** is an agricultural processed food from **cassava (tapioca root)**. Raw starch extract from crushed cassava is processed multiple times to prepare final pearl shaped **Sabudana**.
 
@@ -40,11 +40,11 @@ Quantity for each ingredient varies based on quantity of khichadi to be prepared
 
 Soak **Sabudana** in water for 2 mins and drain water.
 
-![soaked Sabudana](/img/Sabudana4.png "soaked Sabudana")
+![soaked sabudana](/img/sabudana4.png "soaked sabudana")
 
 Keep soaked **Sabudana** aside for 2 hours.
 
-![soaked Sabudana after water drained](/img/Sabudana1.png "soaked Sabudana after water drained")
+![soaked sabudana after water drained](/img/sabudana1.png "soaked sabudana after water drained")
 
 ##### Step 2:
 
@@ -70,7 +70,7 @@ Garnish with green coriander leaves
 
 Serve well.
 
-![Sabudana ready](/img/Sabudana2.png "Ready Sabudana")
+![sabudana ready](/img/sabudana2.png "Ready Sabudana")
 
 Enjoy your fasting with delicious **Sabudana Khichadi** and share with others who are not on fasting.
 
