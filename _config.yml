@@ -30,12 +30,11 @@ gems:
 
 # Custom variables
 version: "1.1.0"
-
+comments: true
 # Options
 custom_header: false
 custom_nav_footer: false
 reverse: false
-comments: true
 # Build settings
 
 # Disqus Comments
