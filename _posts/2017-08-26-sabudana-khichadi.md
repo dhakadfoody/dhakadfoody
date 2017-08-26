@@ -75,7 +75,7 @@ Serve well.
 
 Enjoy your fasting with delicious **Sabudana Khichadi** and share with others who are not on fasting.
 
-Courtesy: **Ankit Jasoria**
+Courtesy: **Deepali Gupta Jasoria**
 
 Happy fasting and be healthy!!
 
