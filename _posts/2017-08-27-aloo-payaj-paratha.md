@@ -2,22 +2,22 @@
 title: Aloo-Pyaaj paratha (Potato-Onion flatbread)
 ---
 
-Dear friends, India is a country of festivals and food. We have lot of variety of food varying from different regions to culture. Similar to our culture, our food is also colourful and full of variety which keep our life with full of joy and taste. 
+Dear friends, India is a country of festivals and food. We have lot of variety of food varying from different regions to culture. Similar to our culture, our food is also colourful and full of variety which keep our life full of joy and taste. 
 
 Northern part of India is famous for variety of dishes and when it comes to food, everyone loves and enjoy their meal. Coming from the regions of Punjab/Haryana,  **Aloo paratha** is served in breakfast with full glass of lassi (yogurt drink), pieces of butter, curd, chutney and variety of achars (pickels).
 
 Being food lover as **dhakadfoody**, today we will be sharing you the delicious recipe of making Aloo-pyaaj paratha.
 
-**Note**: In case you have obligation of any kind to take onion, you can follow the recipe, avoiding onion. It will taste similar, till you enjoy cooking and eating like **dhakadfoodies**. 
+**Note**: In case you have obligation of any kind, to take onion and garlic, you can follow the recipe, avoiding onion and garlic. It will taste similar, till you enjoy cooking and eating like **dhakadfoodies**. 
 
 ***We enforce mainly on masala (ingredients mix)*** :)
 
-Before going for the recipe, let's brief out some **nutrition** advantages of Aloo (potato) and Pyaaj (Onion).   
+Before going for the recipe, let's brief out some **nutrition** advantages of Aloo (potato) and Pyaaj (onion).   
 
 
 ![potato onion](/img/Aluparatha1.png "raw potato onion")
 
-Raw potato is 79% water, 17% carbohydrates (88% of which is starch), 2% protein, contains negligible fat.It is rich source of vitamin B6 and vitamin C. When a potato is baked, contents of vitamin B6 and vitamin C decline with little significant change in other nutrients.
+Raw potato is 79% water, 17% carbohydrates (88% of which is starch), 2% protein, contains negligible fat. It is rich source of vitamin B6 and vitamin C. When a potato is baked, contents of vitamin B6 and vitamin C decline with little significant change in other nutrients.
 
 Most onion cultivars are about 89% water, 9% carbohydrates (including 4% sugar and 2% dietary fiber), 1% protein, and negligible fat. Onions contain low amounts of essential nutrients. 
 
@@ -52,7 +52,7 @@ In low flame pour refined oil in karahi (deep cooking-pot) and add anise (suanf)
 
 ##### Step 2:
 
-When onion turns little pinkish, add scrambled boiled potato along with salt, dhaniya masala (coriader powder), chaat masala (spice powder mix), all as per taste and mix well all ingrdients in cooking-pot.
+When onion turns little pinkish, add scrambled boiled potato along with salt, dhaniya masala (coriander powder), chaat masala (spice powder mix), all as per taste and mix well all ingredients in cooking-pot.
 
 Add one full tea spoon of ghee to the masala (mix), to add taste to it and also not let it stick to cooking-pot utensil.
 
@@ -72,7 +72,8 @@ Prepare dough from wheat flour and use above masala (mix) to prepare paratha (fl
 
 ##### Step 4:
 
-Serve paratha (flatbread) with piece of butter on top of it along with curd and pickels. Lassi(yogurt drink) is great drink combination with **Aloo pyaaj** paratha.
+Serve paratha (flatbread) with piece of butter on top of it along with curd and pickels.
+Lassi(yogurt drink) is good drink combination with **Aloo pyaaj** paratha.
 
 ![flatbread served](/img/Aluparatha4.png "served paratha")
 
