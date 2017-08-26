@@ -79,6 +79,6 @@ Courtesy: **Deepali Gupta Jasoria**
 
 Happy fasting and be healthy!!
 
-Share your feedback at team.dhakadfoody@gmail.com
+Share your feedback at [team.dhakadfoody@gmail.com](mailto:team.dhakadfoody@gmail.com)
 
 <a href ="/{{ site.baseurl }}" >Go Back To Home Page</a>

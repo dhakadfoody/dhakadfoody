@@ -77,6 +77,6 @@ Courtesy: **Yamini Gupta**
 
 Happy **Ganesha** Chaturthi to all !!
 
-Share your feedback at team.dhakadfoody@gmail.com
+Share your feedback at [team.dhakadfoody@gmail.com](mailto:team.dhakadfoody@gmail.com)
 
 <a href ="/{{ site.baseurl }}" >Go Back To Home Page</a>

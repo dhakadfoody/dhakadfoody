@@ -51,6 +51,6 @@ Serve hot with chapati without Ghee. Above given quantity is good to serve for 3
 
 Eat Healthy, be Healthy !!
 
-Share your feedback at team.dhakadfoody@gmail.com
+Share your feedback at [team.dhakadfoody@gmail.com](mailto:team.dhakadfoody@gmail.com)
 
 <a href= "/{{ site.baseurl }}" >Go Back To Home Page</a>
