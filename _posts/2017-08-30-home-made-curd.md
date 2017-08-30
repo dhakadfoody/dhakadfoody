@@ -52,6 +52,8 @@ Curd is now ready to eat.
 
 Enjoy home made fresh curd with yellow cream on top.
 
+Eat fresh, eat healthy !!
+
 Courtesy: **Varun Gupta**
 
 
