@@ -2,11 +2,11 @@
 title: Baingan Bhajiya (Brinjal Snack)
 ---
 
-Dear friends, do you know **brinjal** (baingan in hindi) is known by diferrent names in different parts of world. In North American and Australian english it is known as **Eggplant**, but in British english it is known as **aubergine**, whereas in Southeast Asia and South Africa we all know it by name **brinjal**. Other common known names are **melongene, garden egg or guinea squash**.
+Dear friends, do you know **brinjal** (baingan in hindi) is known by diferrent names in different parts of world. In North America and Australia it is known as **Eggplant** but in Britain it is known as **aubergine**, whereas in Southeast Asia and South Africa we all know it by name **brinjal**. Other common known names are **melongene, garden egg or guinea squash**.
 
-**Brinjal** is basically a fruit(berry) but used as a vegetable.
+**Brinjal** is basically a fruit (berry) but is used as a vegetable.
 
-Raw **brinjal/eggplant** is composed of 92% water, 6% carbohydrates, 1% protein, and negligible fat. It provides low amounts of essential nutrients, with only manganese having a moderate percentage (11%) of the Daily Value.
+Raw **brinjal/eggplant** is composed of 92% water, 6% carbohydrates, 1% protein, and negligible fat. It provides low amount of essential nutrients, with only manganese having a moderate percentage (11%) of the Daily Value.
 
 ![baingan](/img/bengan1.png "bharta baingan")
 
@@ -42,24 +42,24 @@ Add turmeric, salt, chilly powder and chaat masala as per taste, on both sides o
 
 Add cooking oil in frying pan and fry the slices in very low flame.
 
-Fry the slices from both side.
+Fry the slices from both sides.
 
 Keep turning the slices for 5 to 6 times to make sure it is cooking well from both sides.
 
 Cover the pan during frying.
 
-**Note:** we are not deep frying the slices.
+**Note:** Do not deep fry the slices.
 
 ![frying brinjal](/img/benganbhajiya3.png "frying brinjal in pan")
 
 ##### Step 4:
 
-Serve fried slices with tomato sauce or as it is, and enjoy **Baingan Bhajiya**
+Serve fried slices with tomato ketchup or as it is, and enjoy **Baingan Bhajiya**
 
 ![Ready to serve](/img/benganbhajiya4.png "ready to serve")
 
 
-Above dish is shared by founder of **dhakadfoody** on Aug 27th as special dish on occasion of his Birthday. May **Varun** enjoy his birth day, year on year with full of taste and happiness.
+Above dish is shared by founder of **dhakadfoody** on Aug 27th as special dish on occasion of his Birthday. May **Varun** enjoy his birthday, year on year with full of taste and happiness.
 
 
 Courtesy: **Varun Gupta**
