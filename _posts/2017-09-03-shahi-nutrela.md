@@ -4,7 +4,7 @@ title: Shahi Nutrela Veg (Soya Chunks)
 
 Dear friends, today we are sharing you the recipe for **Nutrela (Soya Chunks)**.
 
-**Nutrela**  is a line of hig-protein foods in form of soya chunks, nuggets, granules, and mini-chunks. It has its health benefits as:
+**Nutrela**  is a line of high-protein foods in form of soya chunks, nuggets, granules, and mini-chunks. It has its health benefits as:
 
 - **Nutrela** are high in protein
 - LDL reduces with **Nutrela**, thus good to control cholestrol
