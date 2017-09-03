@@ -2,11 +2,11 @@
 title: Aloo-Pyaaj paratha (Potato-Onion flatbread)
 ---
 
-Dear friends, India is a country of festivals and food. We have lot of variety of food varying from different regions to culture. Similar to our culture, our food is also colourful and full of variety which keep our life full of joy and taste. 
+Dear friends, India is a country of festivals and food. We have a lot of variety of food varying from different regions to culture. Similar to our culture, our food is also colourful and full of variety, which keep our life full of joy and taste. 
 
-Northern part of India is famous for variety of dishes and when it comes to food, everyone loves and enjoy their meal. Coming from the regions of Punjab/Haryana,  **Aloo paratha** is served in breakfast with full glass of lassi (yogurt drink), pieces of butter, curd, chutney and variety of achars (pickels).
+Northern part of India is famous for variety of dishes and when it comes to food, everyone loves and enjoy their meal. Coming from the regions of Punjab/Haryana,  **Aloo paratha** is served in breakfast with full glass of lassi (yogurt drink), pieces of butter, curd, chutney and variety of achars (pickles).
 
-Being food lover as **dhakadfoody**, today we will be sharing you the delicious recipe of making Aloo-pyaaj paratha.
+Being food lover as **dhakadfoody**, today we are sharing the delicious recipe of making Aloo-pyaaj paratha.
 
 **Note**: In case you have obligation of any kind, to take onion and garlic, you can follow the recipe, avoiding onion and garlic. It will taste similar, till you enjoy cooking and eating like **dhakadfoodies**. 
 
@@ -56,7 +56,7 @@ When onion turns little pinkish, add scrambled boiled potato along with salt, dh
 
 Add one full tea spoon of ghee to the masala (mix), to add taste to it and also not let it stick to cooking-pot utensil.
 
-Mix all ingredients well for 3-4 minutes, after which switch off the flame.
+Mix all ingredients well for 3-4 minutes, after which turn off the flame.
 
 Add chopped coriander leaves to ready masala (mix). 
 
@@ -72,8 +72,8 @@ Prepare dough from wheat flour and use above masala (mix) to prepare paratha (fl
 
 ##### Step 4:
 
-Serve paratha (flatbread) with piece of butter on top of it along with curd and pickels.
-Lassi(yogurt drink) is good drink combination with **Aloo pyaaj** paratha.
+Serve paratha (flatbread) with piece of butter on top of it along with curd and pickles.
+Lassi (yogurt drink) is a great combination with **Aloo pyaaj** paratha.
 
 ![flatbread served](/img/Aluparatha4.png "served paratha")
 
