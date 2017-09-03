@@ -6,7 +6,7 @@ Dear friends, packaged food is slowly becoming part of our day to day diet and b
 
 Curd is something which is easily available as packaged product in market, but in **dhakadfoody**, being food lovers we will show you quick and easy recipe to prepare home made curd, which is not only tasty but healthy also.
 
-Curd is consider as best diet when we have upset stomach, or have digestion issues. Its acidic character helps to maintain our digestive system. Some people also eat curd with sugar as sweet after food. We can also make lot of other eatables from curd like Lassi (yogurt drink), Chaas (Curd water), curd cheese, paneer etc.
+Curd is considered as best diet when we have upset stomach, or have digestion issues. Its acidic character helps to maintain our digestive system. Some people also eat curd with sugar as sweet after food. We can also make lot of other eatables from curd like Lassi (yogurt drink), Chaas (Buttermilk), curd cheese, paneer etc.
 
 
 
@@ -23,7 +23,7 @@ Quantity for each ingredient varies based on quantity of curd to prepare
 
 Take a metal bowl or any vessel with a lid.
 
-Place the packet curd over the metal part as shown in below image.
+Spread the packet curd over the metal part as shown in below image.
 
 ![curd preparation](/img/curd1.png "curd preparation")
 
@@ -31,7 +31,7 @@ Place the packet curd over the metal part as shown in below image.
 
 Take 1 or 1/2 litre boiled warm cow milk with cream and pour it into the metal bowl (having curd spread in step 1).
 
-**Note:** we are not using **hot** milk here.
+**Note:** Do not use **hot** milk.
 
 Stir the milk well in the metal bowl.
 
