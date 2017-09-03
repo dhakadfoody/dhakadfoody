@@ -149,9 +149,9 @@ Serve with hot parathas.
 ![serve with paratha](/img/shahinutrela14.png "serve well")
 
 
-Enjoy healthy and tasty **nutrela (soya chunks)** and share your recipe with others to benefit !!
+Enjoy healthy and tasty ** shahi nutrela (soya chunks)** and share your recipe with others to benefit !!
 
-Happy Eating !!
+Eat like a King/Queen and be healthy !!
 
 Courtesy: **Ankit Jasoria**
 
